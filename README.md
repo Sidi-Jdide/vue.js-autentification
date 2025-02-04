@@ -34,5 +34,5 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 
 1. **Cloner le dépôt** :
    ```bash
-   git clone https://github.com/votre-utilisateur/vue.js-authentification.git
+   git clone git@github.com:Sidi-Jdide/vue.js-autentification.git
    cd vue.js-authentification
